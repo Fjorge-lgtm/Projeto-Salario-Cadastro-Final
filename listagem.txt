@@ -1,0 +1,9 @@
+Listagem de Cadastro
+==================================================
+Código: 1 | Nome: Jordelino Gomes | Telefone: 48-258789369 | Email: jorde@terra.com | CPF: 741852963-58 | Cargo: Mecanico | Data: 23.02.2012 | Salário: 1518,00 | Endereço: Rua 04, nº 256, Americana São Paulo
+Código: 2 | Nome: Mauro Ramos | Telefone: 21-258369147 | Email: ramos@gmail.com | CPF: 159351258-78 | Cargo: Engenheiro | Data: 23.02.2003 | Salário: 2500.0 | Endereço: Rua das Acacias, 1258 DF
+Código: 3 | Nome: Daniela Lima | Telefone: 21-369865352 | Email: dani@globo.com | CPF: 741258963-63 | Cargo: Jornalista | Data: 01.02.2003 | Salário: 8000,00 | Endereço: Av. Atlantica, nº12536, Tijuca RJ
+Código: 4 | Nome: Karla Dantas | Telefone: 11-159753258 | Email: karla@terra.com.br | CPF: 741258369-96 | Cargo: Arquiteta | Data: 02.03.2023 | Salário: 2.500,00 | Endereço: Av. Paulista, nº1596, São Paulo-SP
+Código: 8 | Nome: Poliana Jeneth | Telefone: 85-159876855 | Email: poliana@gmail.com | CPF: 123456963-63 | Cargo: Telefonista | Data: 15.02.2020 | Salário: 1518,00 | Endereço: Rua das Mangueiras, nº 36, Natal RN
+Código: 25 | Nome: Mario Praxedes | Telefone: 62-258369741 | Email: mario@uol.com.br | CPF: 159357852-56 | Cargo: Atendente de Loja | Data: 23.02.2023 | Salário: 1518,00 | Endereço: Av. Anhanguera, 2510, Goiânia Go
+==================================================
